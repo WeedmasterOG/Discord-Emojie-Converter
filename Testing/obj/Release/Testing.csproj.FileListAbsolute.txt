@@ -1,0 +1,6 @@
+C:\Users\TIS\source\repos\Testing\Testing\bin\Release\Testing.exe.config
+C:\Users\TIS\source\repos\Testing\Testing\bin\Release\Testing.exe
+C:\Users\TIS\source\repos\Testing\Testing\bin\Release\Testing.pdb
+C:\Users\TIS\source\repos\Testing\Testing\obj\Release\Testing.csproj.CoreCompileInputs.cache
+C:\Users\TIS\source\repos\Testing\Testing\obj\Release\Testing.exe
+C:\Users\TIS\source\repos\Testing\Testing\obj\Release\Testing.pdb

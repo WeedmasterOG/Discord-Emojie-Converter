@@ -1,0 +1,14 @@
+C:\Users\TIS\source\repos\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\TIS\source\repos\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\TIS\source\repos\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\TIS\source\repos\Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\TIS\source\repos\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\TIS\source\repos\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\TIS\source\repos\Testing\Testing\obj\Debug\Testing.pdb
+C:\Users\TIS\Desktop\My\Emojie Converter\Testing\bin\Debug\Testing.exe.config
+C:\Users\TIS\Desktop\My\Emojie Converter\Testing\bin\Debug\Testing.exe
+C:\Users\TIS\Desktop\My\Emojie Converter\Testing\bin\Debug\Testing.pdb
+C:\Users\TIS\Desktop\My\Emojie Converter\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\TIS\Desktop\My\Emojie Converter\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\TIS\Desktop\My\Emojie Converter\Testing\obj\Debug\Testing.exe
+C:\Users\TIS\Desktop\My\Emojie Converter\Testing\obj\Debug\Testing.pdb
